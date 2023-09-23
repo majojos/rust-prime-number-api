@@ -1,2 +1,2 @@
-git clone https://github.com/majojos/rust-prime-number-api.git
 sudo yum install git -y
+git clone https://github.com/majojos/rust-prime-number-api.git
